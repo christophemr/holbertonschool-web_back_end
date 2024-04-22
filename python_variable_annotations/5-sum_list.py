@@ -8,5 +8,5 @@ from typing import List
 
 
 def sum_list(input_list: List[float]) -> float:
-    """return the sum of floats"""
+    """returns their sum as a floats"""
     return (float(sum(input_list)))
